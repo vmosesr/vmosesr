@@ -100,7 +100,7 @@ A highly flexible multi-auth API built in Laravel. Designed for frontends of any
 
 ---
 
-### [MACSCPAR App](https://github.com/vmosesr/macscpar-app)
+### [MACSCPAR](https://github.com/vmosesr/macscpar-app)
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Enterprise-4ECDC4?style=for-the-badge" alt="Enterprise" />
@@ -109,7 +109,7 @@ An advanced web application built with React + JavaScript that consumes the BOLD
 
 ---
 
-### [shopEasy (BOLD Technology Org)](https://github.com/BOLD-TECHNOLOGY/shopEasy)
+### [shopEasy](https://github.com/BOLD-TECHNOLOGY/shopEasy)
 <img src="https://img.shields.io/badge/Laravel_12.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/E--Commerce-FFD93D?style=for-the-badge" alt="E-Commerce" />
@@ -157,14 +157,11 @@ I'm always exploring new technologies and passionate about collaborating on mean
   <a href="https://github.com/vmosesr">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:joe.moses@example.com">
+  <a href="mailto:ndungurujosephat30@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/joemoses">
+  <a href="https://www.linkedin.com/in/josephat-ndunguru-09694b173/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/joemoses">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
 
